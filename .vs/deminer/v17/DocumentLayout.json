@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\vs_projects\\deminer\\",
-  "Documents": [],
+  "WorkspaceRootPath": "H:\\Deminer Molochko\\console_deminer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A98987-43F5-4014-8DA8-CD79C00E7056}|deminer\\deminer.vcxproj|H:\\Deminer Molochko\\console_deminer\\deminer\\deminer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4A98987-43F5-4014-8DA8-CD79C00E7056}|deminer\\deminer.vcxproj|solutionrelative:deminer\\deminer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "deminer.cpp",
+              "DocumentMoniker": "H:\\Deminer Molochko\\console_deminer\\deminer\\deminer.cpp",
+              "RelativeDocumentMoniker": "deminer\\deminer.cpp",
+              "ToolTip": "H:\\Deminer Molochko\\console_deminer\\deminer\\deminer.cpp",
+              "RelativeToolTip": "deminer\\deminer.cpp",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAAOkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T15:27:13.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

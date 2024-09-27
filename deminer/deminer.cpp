@@ -231,7 +231,7 @@ public:
 {
     Sleep(500);
     system("cls"); // Очистка экрана
-    std::cout << "Game Over";
+    std::cout << "PROEBAL Molochko!";
     Sleep(2000); // Задержка на 2 секунды для отображения сообщения
     system("pause"); // Пауза, чтобы пользователь мог увидеть сообщение
 }
